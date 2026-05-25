@@ -114,7 +114,7 @@ We may update our Privacy Policy from time to time. When we do, we will update t
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-📧 **Email:** [gokbeerkgok@gmail.com](mailto:gokbeerkgok@gmail.com)
+📧 **Email:** [gokbeerkgok@gmail.com](mailto:locandcoffee@gmail.com)
 
 ---
 
