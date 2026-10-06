@@ -17,10 +17,10 @@
 | **Marka** | Loc & Co. Coffee House |
 | **Adres** | Şiremirçavuş Mah. Kırıkçı Zeliha Ana Sk. Mehmet Arzum A Blok No: 20 İç Kapı No: 9 Merkez/Bartın |
 | **Telefon** | +90 544 338 83 68 |
-| **E-posta** | [locandcoffee@gmail.com](mailto:locandcoffee@gmail.com) |
+| **E-posta** | [info@loc-abc.com](mailto:info@loc-abc.com) |
 | **İnternet Sitesi** | [https://loc-abc.com](https://loc-abc.com) |
-| **MERSİS No** | [DOLDURULACAK] |
-| **Vergi Dairesi / No** | [DOLDURULACAK] |
+| **ALICI (Müşteri):** | https://loc-abc.com üzerinden hizmet satın alan, tüketici sıfatına sahip, üyelik oluşturarak veya misafir olarak sipariş veren gerçek kişi veya tüzel kişidir.|
+| **Vergi Dairesi / No** | [6091286669] |
 
 ### 1.2 Alıcı
 
