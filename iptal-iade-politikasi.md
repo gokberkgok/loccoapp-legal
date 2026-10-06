@@ -76,7 +76,7 @@ Bu durum, aşağıda belirtilen iptal ve iade haklarını ortadan kaldırmaz.
 | **Unvan** | LOC ABC Dil Hizmetleri Bilişim ve Danışmanlık Ltd. Şti. |
 | **Adres** | Şiremirçavuş Mah. Kırıkçı Zeliha Ana Sk. Mehmet Arzum A Blok No: 20 İç Kapı No: 9 Merkez/Bartın |
 | **Telefon** | +90 544 338 83 68 |
-| **E-posta** | [locandcoffee@gmail.com](mailto:locandcoffee@gmail.com) |
+| **E-posta** | [info@loc-abc.com](mailto:info@loc-abc.com) |
 | **İnternet Sitesi** | [https://loc-abc.com](https://loc-abc.com) |
 
 ---
