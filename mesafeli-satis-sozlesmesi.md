@@ -20,7 +20,7 @@
 | **E-posta** | [info@loc-abc.com](mailto:info@loc-abc.com) |
 | **İnternet Sitesi** | [https://loc-abc.com](https://loc-abc.com) |
 | **ALICI (Müşteri):** | https://loc-abc.com üzerinden hizmet satın alan, tüketici sıfatına sahip, üyelik oluşturarak veya misafir olarak sipariş veren gerçek kişi veya tüzel kişidir.|
-| **Vergi Dairesi / No** | [6091286669] |
+| **Vergi Dairesi / No** | 6091286669 |
 
 ### 1.2 Alıcı
 
